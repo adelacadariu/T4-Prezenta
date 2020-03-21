@@ -1,4 +1,4 @@
-[17:57, 21.03.2020] Adela: #include<stdio.h>
+#include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
 void sort(int* a, int n)
